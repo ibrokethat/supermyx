@@ -1,13 +1,23 @@
 {
-  "name": "supermyx",
-  "version": "0.2.2",
-  "author": "Andrew Keig <andrew.keig@gmail.com>",
+  "name": "@ibrokethat/supermyx",
+  "version": "0.2.3",
+  "author": "Pawan Puthran (pawan.puthran@gmail.com)",
   "description": "supermyx is an oppionated rabbitmq wrapper around node-amqp",
   "homepage": "https://github.com/andrewkeig/supermyx",
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrewkeig/supermyx"
+    "url": "https://github.com/ibrokethat/supermyx"
   },
+  "contributors":[
+   {
+     "name": "Simon Jefford",
+     "email": "si@ibrokethat.com"
+   },
+     {
+     "name": "Pawan Puthran",
+     "email": "pawan.puthran@gmail.com"
+   }
+ ],
   "dependencies": {
     "amqp": "^0.2.4"
   },
@@ -21,12 +31,12 @@
     "messaging"
   ],
   "bugs": {
-    "url": "https://github.com/andrewkeig/supermyx/issues"
+    "url": "https://github.com/ibrokethat/supermyx/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/andrewkeig/supermyx/raw/master/LICENSE"
+      "url": "https://github.com/ibrokethat/supermyx/raw/master/LICENSE"
     }
   ]
 }
