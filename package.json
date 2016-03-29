@@ -8,18 +8,19 @@
     "type": "git",
     "url": "https://github.com/ibrokethat/supermyx"
   },
-  "contributors":[
-   {
-     "name": "Simon Jefford",
-     "email": "si@ibrokethat.com"
-   },
-     {
-     "name": "Pawan Puthran",
-     "email": "pawan.puthran@gmail.com"
-   }
- ],
+  "contributors": [
+    {
+      "name": "Simon Jefford",
+      "email": "si@ibrokethat.com"
+    },
+    {
+      "name": "Pawan Puthran",
+      "email": "pawan.puthran@gmail.com"
+    }
+  ],
   "dependencies": {
-    "amqp": "^0.2.4"
+    "amqp": "^0.2.4",
+    "lodash": "^4.6.1"
   },
   "engines": {
     "node": "*"
