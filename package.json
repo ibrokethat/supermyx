@@ -1,6 +1,6 @@
 {
   "name": "@ibrokethat/supermyx",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "author": "Pawan Puthran (pawan.puthran@gmail.com)",
   "description": "supermyx is an oppionated rabbitmq wrapper around node-amqp",
   "homepage": "https://github.com/andrewkeig/supermyx",
@@ -16,6 +16,10 @@
      {
      "name": "Pawan Puthran",
      "email": "pawan.puthran@gmail.com"
+   },
+   {
+     "name": "Colin Agbabiaka",
+     "email": "colin.agbabiaka@yubl.me"
    }
  ],
   "dependencies": {
